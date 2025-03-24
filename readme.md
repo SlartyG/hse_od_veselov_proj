@@ -23,9 +23,9 @@
 4. Риа новости  
 5. ТАСС
 
-Временной интервал: Весь 2024 год  
-Исходные Json-файлы находятся в архиве jsons.7z
-Преобразовал в датафрейм: [total_media.csv](https://drive.google.com/file/d/1lnXCHyI_Gqw2zccoIkAx4alYxvd-TmNy/view?usp=sharing)  
+- Временной интервал: Весь 2024 год  
+- Исходные Json-файлы находятся в архиве jsons
+- Преобразовал в датафрейм: [total_media.csv](https://drive.google.com/file/d/1lnXCHyI_Gqw2zccoIkAx4alYxvd-TmNy/view?usp=sharing)  
 
 ## Анализ
 
