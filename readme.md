@@ -29,7 +29,7 @@
 
 ## Анализ
 
-Обработка и анализ данных проводилась в файле project.inpyb  
+Обработка и анализ данных проводилась в файле [project.inpyb](https://colab.research.google.com/drive/1Iv4DC0FeBhVJMW3PZOYWyXZwkC9syvFZ?usp=sharing)  
 Там же можно изучить рейтинг и динамику
 
 Также отдельно сохранил рейтинг в top100.csv
